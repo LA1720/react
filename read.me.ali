@@ -1,0 +1,6 @@
+npx create-react-app my-app
+cd my-app
+npm start
+
+for bootstrap run: npm install bootstrap
+go to index.js and add import 'bootstrap/dist/css/bootstrap.min.css'
